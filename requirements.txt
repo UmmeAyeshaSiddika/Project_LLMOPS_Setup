@@ -3,6 +3,8 @@ langchain-community
 langchain-core
 langchain-text-splitters
 pypdf
+faiss-cpu==1.11.0.post1
+fastapi==0.116.1
 
 ipykernel
 python-dotenv
