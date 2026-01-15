@@ -2,12 +2,19 @@ langchain
 langchain-community
 langchain-core
 langchain-text-splitters
+langchain_groq
+langchain_google_genai
+
 pypdf
+pytest
+
 faiss-cpu==1.11.0.post1
 fastapi==0.116.1
 
+structlog
+docx2txt
+streamlit
+
 ipykernel
 python-dotenv
-langchain_groq
-langchain_google_genai
 -e .
