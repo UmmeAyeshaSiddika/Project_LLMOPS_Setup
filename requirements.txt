@@ -7,6 +7,7 @@ langchain_google_genai
 
 pypdf
 pytest
+PyMuPDF
 
 faiss-cpu==1.11.0.post1
 fastapi==0.116.1
